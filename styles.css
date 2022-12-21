@@ -3,6 +3,15 @@ h1 {
 	font-family: fantasy;
 }
 
+#footer {
+  position: fixed;
+  height: 40px;
+  padding: 10px 10px 0px 10px;
+  width: 100%;
+  bottom: 0;
+  background-color: dimgrey;
+}
+
 /* Add a black background color to the top navigation */
 .topnav {
   background-color: #333;
