@@ -3,7 +3,7 @@ h1 {
 	font-family: fantasy;
 }
 
-#footer {
+.footer {
   position: fixed;
   height: 40px;
   padding: 10px 10px 0px 10px;
