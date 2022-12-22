@@ -1,6 +1,10 @@
-h1 {
+h1, h2 {
 	text-align: center;
 	font-family: fantasy;
+}
+
+.introclass {
+  text-align: center;
 }
 
 .footer {
